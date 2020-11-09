@@ -1,4 +1,4 @@
-import { CancelToken } from 'axios';
+import { CancelToken } from 'gioxios';
 import RequestManager from './lib/RequestManager';
 import extend from './lib/extend';
 
